@@ -24,4 +24,4 @@ Below, all talks and workshops I have given are gathered, as a way of tracking t
 - R-Ladies presentation - Piscolabis @ La causa galería (12/04/2018)
 
 ## Upcoming talks and workshops
-- (Regex 101)[https://t3chfest.uc3m.es/2019/learn-with-t3chfest/regex-101/] - Learn with T3chFest @ La Nave (09/03/2019)
+- [Regex 101](https://t3chfest.uc3m.es/2019/learn-with-t3chfest/regex-101/) - Learn with T3chFest @ La Nave (09/03/2019)
